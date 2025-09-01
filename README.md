@@ -19,6 +19,6 @@ This is a simple Swift App to learn SwiftUI and StoryBoard while also introducin
 
 ### Optional Features
 
-- [-] 1. User can tap a button to change the color of the background view
-- [-] 2. User can select on additional buttons that provide more info about the user. Example: more textfields, a different alert box, etc.
-- [-] 3. Any stylistic changes that are not default options (Comment this here)
+- [ ] 1. User can tap a button to change the color of the background view
+- [ ] 2. User can select on additional buttons that provide more info about the user. Example: more textfields, a different alert box, etc.
+- [ ] 3. Any stylistic changes that are not default options (Comment this here)
