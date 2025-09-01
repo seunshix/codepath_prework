@@ -6,7 +6,7 @@ This is a simple Swift App to learn SwiftUI and StoryBoard while also introducin
 
 ### App Walk-though
 
-< <img src="https://drive.google.com/file/d/1U0Z9AbgYnMxnzjxhzPm60N1tRoZOihGO/view?usp=sharing" width=200><br> >
+<img src="prework.gif" width=200><br> 
 
 ### Required Features
 
