@@ -28,8 +28,8 @@ class ViewController: UIViewController {
     }
     @IBAction func introduceSelfDidTap(_ sender: Any) {
         let year = yearSegmentedControl.titleForSegment(at: yearSegmentedControl.selectedSegmentIndex)
-        let introduction = "My name is \(firstNameTextField.text!) \(lastNameTextField.text!) and I attend \(schoolNameTextField.text!). I am currently in my \(year!) year and I have completed \(numberOfInternshipsLabel.text!) internships. It is \(fullTimeJobSwitch.isOn) that I want a full-time position as a iOS Engineer."
-        print(introduction)
+        let introduction = "My name is \(firstNameTextField.text!) \(lastNameTextField.text!) and I attend \(schoolNameTextField.text!). I am currently in my \(year!) year and I own \(numberOfInternshipsLabel.text!) pets. It is \(fullTimeJobSwitch.isOn) that I want more pets."
+//        print(introduction)
         
         let alertController = UIAlertController(title: "My Introduction", message: introduction, preferredStyle: .alert)
         let action = UIAlertAction(title: "Nice to meet you!", style: .default, handler: nil)
